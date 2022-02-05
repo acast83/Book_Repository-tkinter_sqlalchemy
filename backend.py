@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy import func
 import logging
 
-# setting up a logger
+# setting up a log
 logger = logging.getLogger(
     __name__
 )
